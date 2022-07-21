@@ -134,3 +134,42 @@ strong {
 .card {
   border: none;
 }
+
+.free-membership {
+  color: white;
+  background-color: #071629;
+}
+
+.hero-price {
+  background-image: url("./images/pic_2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+  min-height: 1000px;
+  height: fit-content;
+}
+
+
+footer {
+  background: #071629;
+  min-height: 220px;
+}
+
+.circle:before {
+  color: #82D24F;
+  font-family: 'holberton_school-icon';
+  content: "\e905";
+  font-size: 22px;
+}
+
+.FAQ p {
+  color: grey;
+}
+
+.bg-primary {
+  background-color: #C271FF !important;
+}
+
+.bg-secondary {
+  background: url("http://kodyrabatowe.wp.pl/img/ico/search_gr.png") top left     no-repeat !important;
+}
